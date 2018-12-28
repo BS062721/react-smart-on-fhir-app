@@ -2,7 +2,7 @@ import 'fhirclient';
 
 
 console.log('Authorizing User...');
-alert('launch');
+//alert('launch');
 
 /**
  * Authorizes the user using SMART authorization flow. 
