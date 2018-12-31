@@ -17,7 +17,6 @@ module.exports = {
     entry: {
         index: './src/index.js',
         launch: './src/launch.js',
-        ready: './src/ready.js'
     },
     output: {
         filename: '[name].js',

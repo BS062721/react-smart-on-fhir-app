@@ -61,6 +61,7 @@
     "terra-demographics-banner": "1.12.1",
     "terra-heading": "1.13.0",
     "terra-i18n": "1.10.1",
-    "terra-i18n-plugin": "^1.8.0"
+    "terra-i18n-plugin": "^1.8.0",
+    "window-or-global": "^1.0.1"
   }
 }
